@@ -1,0 +1,1 @@
+Gather the sensors Soil moisture , DHT11 Sensors ,Water Pump , Relay Module and Jumper wires . Make sure they are connected properly first upload the arduino sketch then run the last cell of the jupyter notebook. if the command sent by the ML model is '1' then Arduino will switch 'on' the pump .
